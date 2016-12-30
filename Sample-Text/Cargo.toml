@@ -1,0 +1,11 @@
+[package]
+name = "sample_text"
+version = "0.1.0"
+authors = [
+    "Byron Vanstien byronvanstien@rocketmail.com",
+    "Abhijay Eshwar eabhijay@gmail.com"
+]
+
+[dependencies]
+gui = { path = "libs/GUI" }
+editor = { path = "libs/editor" }

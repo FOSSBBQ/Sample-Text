@@ -1,0 +1,16 @@
+[root]
+name = "sample_text"
+version = "0.1.0"
+dependencies = [
+ "editor 0.1.0",
+ "gui 0.1.0",
+]
+
+[[package]]
+name = "editor"
+version = "0.1.0"
+
+[[package]]
+name = "gui"
+version = "0.1.0"
+
